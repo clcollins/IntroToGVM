@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # Using GVM to manage Go projects
 
 GVM is a an Open Source tool for managing Go environemnts, including installing multiple versions of go, and managing modules per-project using gvm "pkgsets". Developed originally by [Josh Bussdieker](https://github.com/jbussdieker), GVM, like it's similar to it's Ruby counterpart RVM, allows you to create a development environment for each project or group of projects, segregating the different Go versions and package dependencies to allow for more flexibility and prevent versioning issues.
